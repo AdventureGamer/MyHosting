@@ -1,0 +1,2 @@
+# MyHosting
+For GitHub Pages
